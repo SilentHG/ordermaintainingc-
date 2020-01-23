@@ -1,0 +1,14 @@
+C:\Users\shaki\source\repos\VPPROJECT\bin\Debug\VPPROJECT.exe.config
+C:\Users\shaki\source\repos\VPPROJECT\bin\Debug\VPPROJECT.exe
+C:\Users\shaki\source\repos\VPPROJECT\bin\Debug\VPPROJECT.pdb
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.Properties.Resources.resources
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.csproj.GenerateResource.cache
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.exe
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.pdb
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.Form1.resources
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.csprojAssemblyReference.cache
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.Sales.resources
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.Queries.resources
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.Login.resources
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.Product_Update.resources
+C:\Users\shaki\source\repos\VPPROJECT\obj\Debug\VPPROJECT.Delete_Sale.resources
